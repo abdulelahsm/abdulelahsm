@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Arabic NLP. 
+- 😄 I'm obsessed with knowledge graphs and augmenting human intelligence
+- 📫 How to reach me: abdulelah@hey.com
+- ⚡ Fun fact: I love sim racing 
 <!--
 **abdulelahsm/abdulelahsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
