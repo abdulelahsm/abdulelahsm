@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Arabic NLP. 
-- 😄 I'm obsessed with knowledge graphs and augmenting human intelligence
+- 🔭 I’m currently working on Arabic NLProc projects. 
+- 😄 I'm obsessed with knowledge graphs and augmenting human intelligence.
 - 📫 How to reach me: abdulelah@hey.com
 - ⚡ Fun fact: I love sim racing 
 <!--
