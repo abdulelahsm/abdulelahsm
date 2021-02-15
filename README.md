@@ -6,6 +6,9 @@
 - 🎓 I'm currently on a sabbatical to switch my career from Industrial Engineering to Machine Learning Research.
 - ✍️ I write about the stuff that I build and things I care about in this [blog](https://abdulelahsm.github.io/) 
 
+
+--> 
+
 **abdulelahsm/abdulelahsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
